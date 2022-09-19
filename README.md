@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Open source projects.**
 
-- 🤝 I’m looking for help with **ReactJS**
+- 🤝 I’m looking for help with **ReactJS.**
 
 - 📫 How to reach me **riyajaiswal2503@gmail.com**
 
