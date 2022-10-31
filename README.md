@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Riya Jaiswal on the other side.</h1>
-<h3 align="center">An inquisitive mind, that's learning something new everyday! Looking for better opportunities and exploring things around.</h3>
+<h3 align="center">An inquisitive mind, that's learning something new everyday! Looking for better opportunities and exploring things around. The more you GRIND, the more you GET💫</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyajaiswal25&label=Profile%20views&color=0e75b6&style=flat" alt="riyajaiswal25" /> </p>
 
