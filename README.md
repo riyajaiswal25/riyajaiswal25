@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **riyajaiswal2503@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pmBky58tNEv3C2U9_iwHZQo9i6M-SGZl/view?usp=sharing](https://drive.google.com/file/d/1pmBky58tNEv3C2U9_iwHZQo9i6M-SGZl/view?usp=sharing)
+- 📄 Know about my experiences([https://drive.google.com/file/d/1pmBky58tNEv3C2U9_iwHZQo9i6M-SGZl/view?usp=sharing](https://drive.google.com/file/d/127dfJNd9oZBg7ivFifJHDa_paAMt00pz/view?usp=share_link))
 
 - ⚡ Fun fact **Well, sometimes I write code, sometimes tragedies :(**
 
