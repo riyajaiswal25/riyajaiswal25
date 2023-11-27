@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyajaiswal25&label=Profile%20views&color=0e75b6&style=flat" alt="riyajaiswal25" /> </p>
 
-<p align="left"> <a href="https://twitter.com/riyajai09016223" target="blank"><img src="https://img.shields.io/twitter/follow/riyajai09016223?logo=twitter&style=for-the-badge" alt="riyajai09016223" /></a> </p>
+<p align="left"> <a href="https://twitter.com/riyajaiswal25" target="blank"><img src="https://img.shields.io/twitter/follow/riyajaiswal25?logo=twitter&style=for-the-badge" alt="riyajai09016223" /></a> </p>
 
 - 🔭 I’m currently working on **ML projects.**
 
