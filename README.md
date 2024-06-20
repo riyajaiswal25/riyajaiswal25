@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, Riya Jaiswal on the other side.</h1>
 <h3 align="center">Recent graduate with Information Science and Engineering background, I possess a solid foundation in both theoretical and practical aspects of technology. My academic journey has endowed me with robust skills in Java development, machine learning, and deep learning, with a strong enthusiasm for applying these skills to solve real-world problems and contribute to innovative projects.
-
-Technical Skills:
-Languages: Java, Python, C, C++, R, SQL, MongoDB
-Technologies and Frameworks: Machine Learning, Deep Learning, REST APIs, EDA, NLP, TensorFlow, Keras
-Tools: SpringBoot, Postman, GitHub, Eclipse, VS Code
-Skills: Data Analysis, Data Visualization, Problem Solving, Content Writing
-
-I am eager to join a dynamic team where I can apply my knowledge, continue to learn, and make meaningful contributions. My goal is to be at the forefront of technological advancements and to continuously push the boundaries of what is possible through innovation and collaboration.</h3>
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyajaiswal25&label=Profile%20views&color=0e75b6&style=flat" alt="riyajaiswal25" /> </p>
 
