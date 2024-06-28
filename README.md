@@ -1,41 +1,86 @@
-<h1 align="center">Hi 👋, Riya Jaiswal on the other side.</h1>
-<h3 align="center">Recent graduate with Information Science and Engineering background, I possess a solid foundation in both theoretical and practical aspects of technology. My academic journey has endowed me with robust skills in Java development, machine learning, and deep learning, with a strong enthusiasm for applying these skills to solve real-world problems and contribute to innovative projects.
-</h3>
+<img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" >
+<h1 align="center">Hi 👋, I'm Shashi Srivastava</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riyajaiswal25&label=Profile%20views&color=0e75b6&style=flat" alt="riyajaiswal25" /> </p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20India.webp" alt="Flag India" width="100" height="100" />
+  
+<p align="center">
+  <b style="color: blue;  ">Visitor count</b>
+  <br>
+  <a style="" href="https://github.com/Shashi-Srivastav">
+  <img src="https://profile-counter.glitch.me/Shashi-Srivastav/count.svg" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://twitter.com/riyajaiswal25" target="blank"><img src="https://img.shields.io/twitter/follow/riyajaiswal25?logo=twitter&style=for-the-badge" alt="riyajai09016223" /></a> </p>
+<h3 align="center">I am tech enthusiast and love coding.</h3>
+<img align="center" width "250" src"https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif">
 
-- 🔭 I’m currently working on **ML projects.**
 
-- 🌱 I’m currently learning **DSA (Java).**
 
-- 👯 I’m looking to collaborate on **Open source projects.**
+<div align="right">
+<img width = "400"src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" />
+</div>  
 
-- 🤝 I’m looking for help with **ReactJS.**
 
-- 📫 How to reach me **riyajaiswal2503@gmail.com**
+- 🌱 I’m currently learning DSA in **C++**
 
-- 📄 Know about my experiences([https://drive.google.com/file/d/14eR12A40c0raa0SNSFez5d7MG5JJtdZr/view](https://drive.google.com/file/d/1PMDsEkMjLVX78ofVZReqBs5Wct6pCKDi/view))
-
-- ⚡ Fun fact **Well, sometimes I write code, sometimes tragedies :(**
+- 📫 How to reach me **shashisrivastav95@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/riyajai09016223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="riyajai09016223" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/riya-jaiswal-2060771b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riya-jaiswal-2060771b1" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/riya-jaiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="riya-jaiswal" height="30" width="40" /></a>
-<a href="https://instagram.com/riyajaiswal5798" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="riyajaiswal5798" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/riya_jaiswal25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="riya_jaiswal25" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/riyajaiswal2503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="riyajaiswal2503" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/riya_jaiswal25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="riya_jaiswal25" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/riyajaiswal2503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="riyajaiswal2503" height="30" width="40" /></a>
-<a href="https://discord.gg/Riya Jaiswal#6226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Riya Jaiswal#6226" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shashi-srivastava01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shashi-srivastava01" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shashisrivastav95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shashisrivastav95" height="30" width="40" /></a>
+</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,mongodb,express,react,nodejs,nextjs,tailwind,cpp,postgres,git,vscode&theme=dark" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riyajaiswal25&show_icons=true&locale=en" alt="riyajaiswal25" /></p>
+<div style="align-items: center; width: 100%; display: flex; align-items: space-around; justify-content: space-around;">
+<a style="" href="https://github.com/shashi-srivastav">
+  <img height=350 align="center" src="https://github-readme-stats.vercel.app/api?username=shashi-srivastav&show_icons=true&theme=tokyonight&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=["contribs","issues"]"/>
+</a>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riyajaiswal25&" alt="riyajaiswal25" /></p>
+
+## 🏆 GitHub Trophies
+[![](https://github-profile-trophy.vercel.app/?username=shashi-srivastav&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/shashi-srivastav)<br><br>
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shashi-srivastav&label=Profile%20views&color=0e75b6&style=flat" alt="shashi-srivastav" /> </p>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shashi-srivastav&theme=radical"  display=block width=70% height=auto  alt="1" >
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shashi-srivastav&show_icons=true&locale=en&&theme=radical" alt="shashi-srivastav" /></p>
+
+
+
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=shashi-srivastav&show_icons=true&locale=en&theme=radical&layout=compact" alt="shashi-srivastav" /></p>
+
+
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shashi-srivastav&theme=radical" alt="shashi-srivastav" /></p>
+
+
+
+<div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31locjcrlpw6e4bmgcjp56kb4ziy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>
+
+
+
+<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
+
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31locjcrlpw6e4bmgcjp56kb4ziy">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31locjcrlpw6e4bmgcjp56kb4ziy" alt="Data Card for Spotify">
+</a>
+
+</div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
+</div><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
