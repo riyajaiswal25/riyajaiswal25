@@ -46,7 +46,7 @@
 
 <div style="align-items: center; width: 100%; display: flex; align-items: space-around; justify-content: space-around;">
 <a style="" href="https://github.com/riyajaiswal25">
-  <img height=350 align="center" src="https://github-readme-stats.vercel.app/api?username=shashi-srivastav&show_icons=true&theme=tokyonight&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=["contribs","issues"]"/>
+  <img height=350 align="center" src="https://github-readme-stats.vercel.app/api?username=riyajaiswal25&show_icons=true&theme=tokyonight&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=["contribs","issues"]"/>
 </a>
 </div>
 
