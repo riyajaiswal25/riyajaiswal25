@@ -34,7 +34,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,springboot,git,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,python,anaconda,eclipse,github,gradle,hibernate,maven,mongodb,mysql,opencv,postman,r,spring,sklearn,tensorflow,git,vscode&theme=dark" />
   </a>
 </p>
 
