@@ -12,7 +12,7 @@
   </a>
 </p>
 
-<h3 align="center">I am tech enthusiast and love coding.</h3>
+<h3 align="center">I am Tech enthusiast and love coding.</h3>
 <img align="center" width "250" src"https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif">
 
 
@@ -22,14 +22,14 @@
 </div>  
 
 
-- 🌱 I’m currently learning DSA in **C++**
+- 🌱 I’m currently learning DSA in **Java**
 
-- 📫 How to reach me **shashisrivastav95@gmail.com**
+- 📫 How to reach me **riyajaiswal2503@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shashi-srivastava01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shashi-srivastava01" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shashisrivastav95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shashisrivastav95" height="30" width="40" /></a>
+<a href="(https://www.linkedin.com/in/riya-jaiswal-2060771b1/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="(https://www.linkedin.com/in/riya-jaiswal-2060771b1/)" height="30" width="40" /></a>
+<a href="(https://leetcode.com/u/riya_jaiswal25/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="(https://leetcode.com/u/riya_jaiswal25/)" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -45,7 +45,7 @@
 </picture>
 
 <div style="align-items: center; width: 100%; display: flex; align-items: space-around; justify-content: space-around;">
-<a style="" href="https://github.com/shashi-srivastav">
+<a style="" href="https://github.com/riyajaiswal25">
   <img height=350 align="center" src="https://github-readme-stats.vercel.app/api?username=shashi-srivastav&show_icons=true&theme=tokyonight&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=["contribs","issues"]"/>
 </a>
 </div>
